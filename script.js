@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "As produções dos filmes de hoje em dia buscam uma forma mais facil de criar um bom roteiro, buscando inteligencia artificial"  
+        enunciado: "As produções dos filmes de hoje em dia buscam uma forma mais facil de criar um bom roteiro, buscando inteligencia artificial" , 
         alternativas: [
             {
-                texto: "isso criaria um vicio por opções mais facil, tirando a graça das produções de roteiro "
+                texto: "isso criaria um vicio por opções mais facil, tirando a graça das produções de roteiro ",
                 afirmacao: "no inicio achei que iria estragar as obras feitas por humanos "
             },
             {
-                texto: "seria uma forma de criar cenario diferente e fora da caixa"
+                texto: "seria uma forma de criar cenario diferente e fora da caixa",
                 afirmacao: "seria legal e algo diferente "
             }
         ]
@@ -26,7 +26,7 @@ const perguntas = [
                 afirmacao: "É muito estranho achar normal as falas feitas por uma IA"
             },
             {
-                texto: "imagina criar canarios tecnologicos que precisa usar a IA para criar as falas de robos"
+                texto: "imagina criar canarios tecnologicos que precisa usar a IA para criar as falas de robos",
                 afirmacao: "seria legal um 'robo' interpretar outro robo"
             }
         ]
@@ -35,7 +35,7 @@ const perguntas = [
         enunciado: "Após o roteiro e dublagem agora imagine a dificuldade de desenhar os personagens e o cenario para criar um bom mangá, então novamente vamos usar IA para ajudar os mangaká  ",
         alternativas: [
             {
-                texto: "desenhos feitos por uma IA é muito realista, não tem como achar bonito"
+                texto: "desenhos feitos por uma IA é muito realista, não tem como achar bonito",
                 afirmacao: "os traços são muito detalhados, não tem erros que fazem ser bom para os detalhes"
             },
             {
